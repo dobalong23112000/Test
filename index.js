@@ -36,7 +36,7 @@ alternatingSums([60, 40, 55, 75, 64] );
 
 // Bai 3:
 let btnAutoColor=document.querySelector(".btn-autocolor");
-let hexcolor=document.getElementsByClassName("Hex-color")[0];
+let hexcolor=document.getElementsByClassName("Hex-Color")[0];
 let colorhex=document.querySelector(".color");
 let backgroundAutocolor=document.querySelector(".autocolor");
 
