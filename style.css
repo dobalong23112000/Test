@@ -1,0 +1,16 @@
+.btn-autocolor {
+    padding: 20px 20px;
+    background-color: antiquewhite;
+    border-radius: 16px;
+}
+
+.autocolor {
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    border: 1px solid #333;
+    margin-bottom: 50px;
+}
+td, th{
+    padding: 20px 20px;
+}
